@@ -68,7 +68,7 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
 
 ## FAQ
 
-[See our website.](https://tachiyomi.org/)
+[See our website.](https://tachiyomiiapk.com/)
 
 ## License
 
